@@ -1,6 +1,7 @@
 /*
  Implementation of SybilFuse algorithm.
- Written by Peng Gao (pgao@princeton), with the original version obtained from Neil Zhenqiang Gong (neilz.gong@gmail.com).
+
+ The code was written by Neil Zhenqiang Gong, in September 2012, and modified by Peng Gao and Binghui Wang in 2016
  */
 
 #include "graph.h"

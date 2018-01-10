@@ -1,3 +1,6 @@
+/*
+    Written by Neil Zhenqiang Gong in 2012.  
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
