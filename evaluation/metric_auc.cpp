@@ -1,5 +1,6 @@
 
 /*
+    Written by Neil Zhenqiang Gong and Binghui Wang in 2016
     Compute AUC on a test file given the post scores of all nodes in the network
  */
 
