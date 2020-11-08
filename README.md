@@ -17,6 +17,9 @@ The codes are provided for research purposes only and without any warranty.
 * *sybil\_detection*: state-of-the-art sybil detection approaches & sybilfuse
 
 
+To download our large, labeled Twitter dataset (20M nodes and 265M edges), please visit [here](https://drive.google.com/drive/folders/1Ads8AjcFZGX68ORGrbZu73StKbe7hW5j?usp=sharing)   
+
+
 
 
 For any question, please contact Peng Gao (pgao@princeton.edu), Binghui Wang (binghuiw@iastate.edu), Neil Gong (neilgong@iastate.edu), or Prateek Mittal (pmittal@princeton.edu).
